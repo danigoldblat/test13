@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body {
+    
+}
 #logo {
     display: inline-block;
     width: 50px;
@@ -55,36 +58,12 @@ i {
    margin-left: 20px;
    margin-top: 2%; 
 }
-main h1 {
+main{
     margin:130px 529px;
 }
-.border {
-    background-color: aliceblue;
-    width: 40%;
-    height:200px;
-    margin: 0 auto;
-    margin-top: 115px;
-    border-radius: 50px;
-    box-shadow: 5px 10px;
-    box-shadow: 5px 10px #adabab
-}
-input{
-    border: 0px solid rgb(144, 148, 151);
-    background-color: aliceblue;
-    border-radius: 50px;
-    margin-left: 15%;
-    margin-top: -8%;
-    font-size: 20px;
-    display: block;
-
-}
-.Options {
+.img {
     display: inline-block;
-    border:1px solid rgb(144, 148, 151);
-     border-radius: 26%;
-     margin-top:15%;
-     margin-left: 6%;
-     text-align: center;
-     width: 90px;
-     height: 30px;
+    left: 0;
+    width: 15%;
+    margin: 0 auto;
 }
